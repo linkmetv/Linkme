@@ -1,0 +1,8 @@
+
+name="LinkMeTV"
+url="https://archive.org/download/KodiFinal1/Linkme.zip"
+img="https://github.com/linkmetv/Linkme/raw/master/Link.jpg"
+fanart="https://github.com/linkmetv/Linkme/raw/4293ed912513c2195f4ea3e040e8b782fc9c2a3d/Link/3d-gear-image-1080p.jpg"
+description="LinkMeTv"
+
+
