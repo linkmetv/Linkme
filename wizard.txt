@@ -1,0 +1,8 @@
+
+name="WizardName"
+url="https://archive.org/download/linkmetv_yahoo_Link/link.zip"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="My new Wizard with help from Husham"
+
+
