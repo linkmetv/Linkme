@@ -1,6 +1,6 @@
 
 name="WizardName"
-url="https://archive.org/download/linkmetv_yahoo_Data/data.zip"
+url="https://archive.org/download/linkmetv_yahoo_Link/linkmetv_yahoo_Link_meta.xml"
 img="https://github.com/linkmetv/Linkme/raw/master/256x256.jpg"
 fanart="https://github.com/linkmetv/Linkme/raw/master/256x256.jpg"
 description="Linkme"
